@@ -25,7 +25,7 @@ This project is a Run Management System built using Spring Boot. It provides RES
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/RunManagementSystem.git
+   git clone https://github.com/rvega1204/spring-boot-runnerz.git
    cd RunManagementSystem
    ```
 2. Build the application using Maven or Gradle (if not already built)
