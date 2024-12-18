@@ -70,5 +70,5 @@ The system includes sample run data, which can be preloaded into the database up
 ### Conclusion
 This project demonstrates the use of Spring Boot to build a RESTful application with PostgreSQL, testing, and Docker for easy setup. It offers all essential CRUD operations for managing running events and can be easily extended with additional features such as authentication, advanced queries, or integrations with external services.
 
-### ## License
+### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
